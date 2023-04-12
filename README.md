@@ -1,4 +1,4 @@
-### what is cloud computing
+### What is cloud computing
 
 Cloud computing allows end users to access computing resources - storage, remote servers, databases - over the internet on demand.  
 
