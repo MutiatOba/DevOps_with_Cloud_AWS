@@ -21,3 +21,17 @@ The section above explains the key benefits of cloud computing. Cloud computing 
 ### How does cloud compting fit into devops?
 
 Cloud computing provides a flexible and scalable infrastures for the devops team to build, test and deploy applications and services.
+
+### What is Devops
+
+Devops involves working collaboratively between the development and operations teams to ensure that software is released as efficiently as possible with fewer errors.
+
+### Key benefits of devops
+
+Some of the benefits include:
+
+- Software released to market faster
+- Better quality software
+- Increased collaboration and communication between teams
+- Problems are resolved faster
+
