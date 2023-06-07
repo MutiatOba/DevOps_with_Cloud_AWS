@@ -1,4 +1,4 @@
-### What is cloud computing
+### What is cloud computing?
 
 Cloud computing allows end users to access computing resources - storage, remote servers, databases - over the internet on demand.  
 
@@ -22,7 +22,7 @@ The section above explains the key benefits of cloud computing. Cloud computing 
 
 Cloud computing provides a flexible and scalable infrastures for the devops team to build, test and deploy applications and services.
 
-### What is Devops
+### What is Devops?
 
 Devops involves working collaboratively between the development and operations teams to ensure that software is released as efficiently as possible with fewer errors.
 
